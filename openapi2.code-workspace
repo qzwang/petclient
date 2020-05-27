@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "hello",
+			"path": "hello"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	},
+	"launch": {
+		"configurations": [
+		]
+	}
+}
